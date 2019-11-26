@@ -19,9 +19,9 @@ S.No.	Test-1	Test-2
 14	98	98
 15	97	100
 
-•	How many students have their test 1 score greater than 80?
-•	How many students have their test 2 score greater than 85?
-•	Did all fifteen students take both tests?
-•	How many students did better in the second test than the first test?
+•	How many students have their test 1 score greater than 80?<br>
+•	How many students have their test 2 score greater than 85?<br>
+•	Did all fifteen students take both tests?<br>
+•	How many students did better in the second test than the first test?<br>
 •	How many students have the same score in the first and second test?
 
